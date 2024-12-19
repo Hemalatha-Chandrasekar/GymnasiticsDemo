@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Sports {
+    void calculation(int[] age);
+    void retirement(int id);
 }
